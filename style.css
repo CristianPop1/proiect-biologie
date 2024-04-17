@@ -1,0 +1,9 @@
+body
+{
+    align-items: center;
+    background-color: rgb(195, 255, 228);
+    margin:auto;
+    max-width: 500px;
+    text-size-adjust: auto;
+    font-family: 'Poppins', sans-serif;
+}
